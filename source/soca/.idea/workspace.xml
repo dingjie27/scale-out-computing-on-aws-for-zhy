@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bc79cc2e-8577-42a1-aa59-1a548a3f040f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/cluster_analytics/1job_tracking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cluster_analytics/price.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cluster_analytics/price_loader.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jrRHrBDTkuB7M5xJyAiG2HBoJF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cluster_analytics" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cluster_analytics" />
+      <recent name="$PROJECT_DIR$/cluster_analytics/metricbeat" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cluster_analytics" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.price_loader">
+    <configuration name="job_tracking1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cluster_analytics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster_analytics/job_tracking1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="job_tracking_ori" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="/usr/local/bin/python3.7" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cluster_analytics" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster_analytics/job_tracking_ori.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="price_loader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="soca" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/cluster_analytics" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster_analytics/price_loader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.price_loader" />
+        <item itemvalue="Python.job_tracking1" />
+        <item itemvalue="Python.job_tracking_ori" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc79cc2e-8577-42a1-aa59-1a548a3f040f" name="Default Changelist" comment="" />
+      <created>1604560139788</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604560139788</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="83" key="#Inspections" timestamp="1604562555456">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="320" y="83" key="#Inspections/0.23.1440.794@0.23.1440.794" timestamp="1604562555456" />
+    <state x="398" y="172" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1606460192215">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="398" y="172" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.794@0.23.1440.794" timestamp="1606460192215" />
+    <state x="427" y="32" key="#job_tracking" timestamp="1604562521049">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="427" y="32" key="#job_tracking/0.23.1440.794@0.23.1440.794" timestamp="1604562521049" />
+    <state width="1399" height="187" key="GridCell.Tab.0.bottom" timestamp="1609290893367">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="187" key="GridCell.Tab.0.bottom/0.23.1440.794@0.23.1440.794" timestamp="1609290893367" />
+    <state width="1399" height="187" key="GridCell.Tab.0.bottom/0.23.1440.797@0.23.1440.797" timestamp="1604637902589" />
+    <state width="1399" height="187" key="GridCell.Tab.0.center" timestamp="1609290893366">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="187" key="GridCell.Tab.0.center/0.23.1440.794@0.23.1440.794" timestamp="1609290893366" />
+    <state width="1399" height="187" key="GridCell.Tab.0.center/0.23.1440.797@0.23.1440.797" timestamp="1604637902589" />
+    <state width="1399" height="187" key="GridCell.Tab.0.left" timestamp="1609290893365">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="187" key="GridCell.Tab.0.left/0.23.1440.794@0.23.1440.794" timestamp="1609290893365" />
+    <state width="1399" height="187" key="GridCell.Tab.0.left/0.23.1440.797@0.23.1440.797" timestamp="1604637902589" />
+    <state width="1399" height="187" key="GridCell.Tab.0.right" timestamp="1609290893366">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="187" key="GridCell.Tab.0.right/0.23.1440.794@0.23.1440.794" timestamp="1609290893366" />
+    <state width="1399" height="187" key="GridCell.Tab.0.right/0.23.1440.797@0.23.1440.797" timestamp="1604637902589" />
+    <state width="1399" height="224" key="GridCell.Tab.1.bottom" timestamp="1605146816440">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="224" key="GridCell.Tab.1.bottom/0.23.1440.794@0.23.1440.794" timestamp="1605146816440" />
+    <state width="1399" height="224" key="GridCell.Tab.1.center" timestamp="1605146816439">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="224" key="GridCell.Tab.1.center/0.23.1440.794@0.23.1440.794" timestamp="1605146816439" />
+    <state width="1399" height="224" key="GridCell.Tab.1.left" timestamp="1605146816439">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="224" key="GridCell.Tab.1.left/0.23.1440.794@0.23.1440.794" timestamp="1605146816439" />
+    <state width="1399" height="224" key="GridCell.Tab.1.right" timestamp="1605146816439">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="1399" height="224" key="GridCell.Tab.1.right/0.23.1440.794@0.23.1440.794" timestamp="1605146816439" />
+    <state x="323" y="136" key="RollbackChangesDialog" timestamp="1604570344090">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="323" y="136" key="RollbackChangesDialog/0.23.1440.794@0.23.1440.794" timestamp="1604570344090" />
+    <state x="221" y="57" key="SettingsEditor" timestamp="1604563264280">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="221" y="57" key="SettingsEditor/0.23.1440.794@0.23.1440.794" timestamp="1604563264280" />
+    <state width="700" height="375" key="XDebugger.FullValuePopup" timestamp="1604572147704">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state width="700" height="375" key="XDebugger.FullValuePopup/0.23.1440.794@0.23.1440.794" timestamp="1604572147704" />
+    <state x="378" y="175" width="777" height="486" key="find.popup" timestamp="1609229610069">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="378" y="175" width="777" height="486" key="find.popup/0.23.1440.794@0.23.1440.794" timestamp="1609229610069" />
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup" timestamp="1604891513923">
+      <screen x="0" y="23" width="1440" height="794" />
+    </state>
+    <state x="385" y="141" width="670" height="676" key="search.everywhere.popup/0.23.1440.794@0.23.1440.794" timestamp="1604891513923" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="table.nrows" language="Python" />
+        <watch expression="table.ncols" language="Python" />
+        <watch expression="rowVale[colNum]" language="Python" />
+        <watch expression="rowVale[colNum]" language="Python" />
+        <watch expression="price_dict" language="Python" />
+        <watch expression="dict[ec2_instance_type]" language="Python" />
+        <watch expression="dict['c5.xlarge']" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
